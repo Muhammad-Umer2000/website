@@ -2,10 +2,10 @@ import React from 'react';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Home from "./Home";
-import Features from "./Features";
-import Coverage from "./Coverage";
-import Packages from "./Packages";
-import Contact from "./Contact";
+import Features from "./Feature/Features";
+import Coverage from "./Coverage/Coverage";
+import Packages from "./Packages/Packages";
+import Contact from "./Contact/Contact";
 import Navbar from "./Navbar";
 import Footer from './Footer';
 

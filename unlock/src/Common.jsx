@@ -22,9 +22,9 @@ const Common = (props) => {
                     <div className='row'>
             <div className="col-md-6 pt-5 ps-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
               <h1 className='word'>
-                <b>{props.name} <strong className='orange'> simple </strong> {props.name1}</b> 
+                <b>{props.name} <strong className='orange'> {props.name1} </strong> {props.name2}</b> 
               </h1>
-              <h7 style={smallTextStyle} className="my-3">
+              <h7 style={smallTextStyle} className="my-3 ">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid corrupti 
               </h7>
              

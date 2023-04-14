@@ -1,9 +1,11 @@
 import React from 'react'
+import Common1 from '../Common1'
 
 const Coverage = () => {
   return (
     <>
-      <h1>WELCOME TO Service</h1>
+      <Common1 name ="About us"
+       section ="About us"/>
     </>
   )
 }

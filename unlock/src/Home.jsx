@@ -17,8 +17,9 @@ import Home7 from './Home7';
 const Home = () => {
   return (
     <>
-    <Common name ="Your "
-    name1 = "solution online privacy."
+    <Common name ="Your" 
+    name1 = "simple"
+    name2 = "solution online privacy."
      imgsrc = {web}
      visit="./contact"
      btname="GET START NOW "/>
